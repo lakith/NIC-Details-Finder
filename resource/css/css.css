@@ -1,0 +1,19 @@
+QLabel#label{
+    width: 300px;
+    color:black;
+    font-size:15px;
+}
+
+QLineEdit#lineEdit{
+    border:2px solid gray;
+    border-radius:10px;
+    background:white;
+    selection-background-color:darkGray;
+}
+
+QPushButton#pushButton{
+     background-color: #EC7063;
+     color: white;
+     text-align: center;
+     font-size: 12px;
+}
